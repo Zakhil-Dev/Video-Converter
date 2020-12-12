@@ -12,7 +12,6 @@ namespace Media_Converter
         private static string input = "";
         private static string output = "";
         private static string argument = "";
-        private static Button button = new Button();
 
         public MainWindow()
         {
