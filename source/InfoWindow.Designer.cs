@@ -53,7 +53,6 @@
     "hub.com/Zakhil-Dev/Video-Converter\nSupport me: https://www.patreon.com/Zakhil\n\nM" +
     "ade by Zakhil";
             this.richTextBox1.WordWrap = false;
-            this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // InfoWindow
             // 
